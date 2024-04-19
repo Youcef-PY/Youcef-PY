@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Youcef-PY
-- 👀 I’m interested in learning CS
-- 🌱 I’m currently learning Linux and Flutter framework
-- 💞️ I’m looking to collaborate on open source projects
+- 👋 Hi, I’m @Youcef-PY.
+- 👀 I’m interested in learning CS.
+- 🌱 I’m currently learning Linux.
+- 💞️ I’m looking to collaborate on open source projects.
 
 
 <!---
